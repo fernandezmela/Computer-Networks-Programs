@@ -28,7 +28,7 @@ The goal of this project is to explore socket-level communication, concurrency, 
 
 ---
 
-## ⚙️ Implementation Details
+## Implementation Details
 
 - Messages are sent as newline-terminated strings  
 - Incoming data is buffered and parsed into complete messages  
